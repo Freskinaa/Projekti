@@ -9,7 +9,7 @@ public class Service {
 	/**  sherbimi i kafes */
 	public void jepKafe() {
 		JFrame frame = new JFrame();
-		frame.getContentPane().setBackground(Color.BLACK);
+		frame.getContentPane().setBackground(Color.RED);
 		frame.setBounds(500,200,250,280);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.getContentPane().setLayout(null);
@@ -24,7 +24,7 @@ public class Service {
 	/** sherbimi i cajit */
 	public void jepCaj() {
 		JFrame frame = new JFrame();
-		frame.getContentPane().setBackground(Color.BLACK);
+		frame.getContentPane().setBackground(Color.RED);
 		frame.setBounds(500,200,270,280);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.getContentPane().setLayout(null);
