@@ -3,7 +3,7 @@ package Projekti;
 import java.text.DecimalFormat;
 
 public class Model {
-	private int sasiaKafes  = 10; //sasia e kafes e mbetur ne makine
+	private int sasiaKafes  = 30; //sasia e kafes e mbetur ne makine
 	private int sasiaCajit = 10; //sasia e cajit e mbetur ne makine
 	private double kusuri = 50; //sasia e kusurit te mbetur qe makina ka
 	public static final double cmimiKafes = 1.00; //cmimi i kafes
