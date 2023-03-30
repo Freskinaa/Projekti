@@ -74,7 +74,7 @@ public class OutputView {
 	
 	/** gabimi shfaqe dialogun e ruajtur ne @String g */
 	public void gabimi() {
-		String g = "Nje gabim eshte paraqitur!";
+		String g = "Ekziston nje gabim";
         JOptionPane.showMessageDialog(null, g);
 	}
 }
